@@ -10,6 +10,7 @@
     "debug": "~2.6.9",
     "dotenv": "^16.3.1",
     "express": "~4.16.1",
+    "express-oauth2-jwt-bearer": "^1.6.0",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "mongodb": "^6.3.0",
